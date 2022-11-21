@@ -1,0 +1,17 @@
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.csproj.AssemblyReference.cache
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.AssemblyInfoInputs.cache
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.AssemblyInfo.cs
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.csproj.CoreCompileInputs.cache
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\OtiPorticos3D.exe
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\OtiPorticos3D.deps.json
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\OtiPorticos3D.runtimeconfig.json
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\OtiPorticos3D.runtimeconfig.dev.json
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\OtiPorticos3D.dll
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\OtiPorticos3D.pdb
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\bin\Debug\netcoreapp3.1\CSML.dll
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.csproj.CopyComplete
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.dll
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.pdb
+C:\Users\didig\OneDrive\Área de Trabalho\SOFTWARE MESTRADO C#\OtiPorticos3D\obj\Debug\netcoreapp3.1\OtiPorticos3D.genruntimeconfig.cache

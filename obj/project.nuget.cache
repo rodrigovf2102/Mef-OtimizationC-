@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYElgSmlEXi/EEoHdTAg09HAWCR5rK0QLbEerLbVio+xNX9NpalwvbDhZ1osO9IWU1b5C0tG9/vl07rgu4lOgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\didig\\OneDrive\\Área de Trabalho\\SOFTWARE MESTRADO C#\\OtiPorticos3D\\OtiPorticos3D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\didig\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
